@@ -8,15 +8,15 @@
 
 
 ## 学生向け情報
-- オンライン授業を受けるためには
+- [オンライン授業を受けるためには](/Online_lecture_st/Readme.md)
 
 ## 教員向け情報
 ### オンライン授業について
-- オンライン授業を実施するにあたって
+- [オンライン授業を実施するにあたって](/Online_lecture/Readme.md)
 
 ### 遠隔授業に利用できるシステム
-- LMS BEEF (学修支援システム）
-- ZOOM (Web会議システム）
+- LMS BEEF (学修支援システム）[Beef/Readme.md]
+- ZOOM (Web会議システム）[Zoom/Readme.md]
 
 ### イベント情報
 

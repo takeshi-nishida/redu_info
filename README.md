@@ -12,7 +12,7 @@
 
 ## 教員向け情報
 ### オンライン授業について
-- [オンライン授業を実施するにあたって] (/Online_lecture/Readme.md)
+- [オンライン授業を実施する方法](/Online_lecture/Readme.md)
 
 ### 遠隔授業に利用できるシステム
 - [LMS BEEF (学修支援システム）](Beef/Readme.md)

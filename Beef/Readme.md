@@ -10,5 +10,5 @@ BEEFを用いたオンライン授業の方法の例
   1. https://beef.center.kobe-u.ac.jp/ へアクセスします． 
   2. 神戸大学SSO の画面が出ますので、ID, パスワードを入力すると、BEEFの初期画面が出ます．
   
-- BEEFにログインし、授業の概要を入力しよう[動画（5分程度）](/BEEF_part1.mp4)
+- BEEFにログインし、授業の概要を入力しよう[動画（5分程度）](https://drive.google.com/file/d/1vs9vFEosnRBS8VPnc8rmPTf9W3wXbMVl/view?usp=sharing)
 
